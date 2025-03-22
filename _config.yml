@@ -17,7 +17,7 @@ author:
 # -----------------------------------------------------------------------------
 # 🛠️ Theme & Plugins (Only what's needed for GitHub Pages)
 # -----------------------------------------------------------------------------
-remote_theme: zerostaticthemes/jekyll-serif  # Change this if using another Jekyll theme
+remote_theme: Robert-96/jekyll-serif # Change this if using another Jekyll theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
