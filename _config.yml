@@ -17,13 +17,14 @@ author:
 # -----------------------------------------------------------------------------
 # 🛠️ Theme & Plugins (Only what's needed for GitHub Pages)
 # -----------------------------------------------------------------------------
-theme: Jekyll Serif  # Change this if using another Jekyll theme
+remote_theme: zerostaticthemes/jekyll-serif  # Change this if using another Jekyll theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # -----------------------------------------------------------------------------
 # 📂 Content Settings (Optional, but good for structure)
